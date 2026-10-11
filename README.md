@@ -1,5 +1,7 @@
 # Agentic Prompt Injection Firewall 🛡️
 
+**Live Demo:** [prompt-injection-firewall-vauq.vercel.app](https://prompt-injection-firewall-vauq.vercel.app)
+
 **ET AI Hackathon: Agentic Edition | Problem Statement 2**
 
 An intelligent, LLM-powered middleware firewall designed to intercept, analyze, and neutralize malicious prompt injections before they reach vulnerable downstream AI applications.
